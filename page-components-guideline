@@ -1,0 +1,28 @@
+//////////////////
+Page Components
+///////////////////
+
+yang lama                                  | Projects:
+    ---- Beranda ----                      |        ----Beranda----
+    Navigation Bar                         |        Header ( Image Slider )
+    Header ( Image Slider )                |        Running Text
+    Running Text                           |        Navigation Bar
+    Section Sistem Informasi Terpadu       |        Section 3 Grid Layanan
+    Section 4 Grid Layanan                 |        Section Banners
+    Section Banners                        |        Section Berita
+    Section Berita                         |        Section Sistem Informasi Terpadi
+        Section Narasi Tunggal             |        Section Suara Anda
+        Section Daerah                     |        Section Sosial Media
+        Section Serta Merta                |        Footer
+    Widget                                 |
+        Kanan :                            |
+            API Facebook                   |
+            Display Suara Anda             |
+        Kiri                               |
+            API GVR                        |
+    Footer                                 |
+    
+   -------------------------------------------------------------------------------------------
+   itu dulu nanti tambah
+  
+        
